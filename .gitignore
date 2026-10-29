@@ -1,0 +1,7 @@
+node_modules
+dist
+.npm-cache
+.runtime-home
+.playwright-browsers
+*.local
+.DS_Store
