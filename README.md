@@ -120,3 +120,4 @@ node scripts/test.mjs
 
 React 18 · TypeScript · Vite 5 · Zustand 5 · ECharts 5 · lucide-react
 # easyr
+# easyr
